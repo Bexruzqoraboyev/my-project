@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.cards {
+  width: 500px;
+  height: 590px;
+  background-color: rgb(253, 255, 255);
+  margin-top: 175px;
+  align-items: center;
+  padding-left: 400px;
+}
+.text {
+  width: 231px;
+  height: 54px;
+  top: 544px;
+  left: 684px;
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+  text-align: left;
+}
+.turtburchakcha {
+  width: 16px;
+  height: 16px;
+  background: rgba(102, 109, 255, 1);
+}
+
+.fdtjfrjtrjkytrf {
+  display: flex;
+  width: 624px;
+  height: 248px;
+  background: rgb(234, 220, 220);
+}
+.dhmthoijhtrnhjtoionhtjithihtij {
+  display: flex;
+  gap: 50px;
+}
